@@ -1,0 +1,49 @@
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\pizza.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\player truck.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\pizza spy.exe
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\pizza spy.deps.json
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\pizza spy.runtimeconfig.json
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\pizza spy.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\pizza spy.pdb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\SharpDX.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.csproj.AssemblyReference.cache
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.GeneratedMSBuildEditorConfig.editorconfig
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.AssemblyInfoInputs.cache
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.AssemblyInfo.cs
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.csproj.CoreCompileInputs.cache
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.csproj.Up2Date
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.dll
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\refint\pizza spy.dll
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.pdb
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.genruntimeconfig.cache
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\ref\pizza spy.dll
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\sc_background0.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\sc_background1.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\sc_background2.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\start_screen_bgd.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\start_button.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\how to play button.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\truck1.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\truck2.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\truck0.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\Arial07.xnb

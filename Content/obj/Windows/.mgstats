@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"G:/course work/soft dev/repos/pizza spy/Content/Arial07.spritefont","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/Arial07.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1116892
+"G:/course work/soft dev/repos/pizza spy/Content/how to play button.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/how to play button.xnb","TextureProcessor","Texture2DContent",4707,100085,0.1422727
+"G:/course work/soft dev/repos/pizza spy/Content/pizza.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/pizza.xnb","TextureProcessor","Texture2DContent",324,2585,0.1397116
+"G:/course work/soft dev/repos/pizza spy/Content/player truck.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/player truck.xnb","TextureProcessor","Texture2DContent",2052,60085,0.0018064
+"G:/course work/soft dev/repos/pizza spy/Content/sc_background0.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/sc_background0.xnb","TextureProcessor","Texture2DContent",22527,3072085,0.1771203
+"G:/course work/soft dev/repos/pizza spy/Content/sc_background1.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/sc_background1.xnb","TextureProcessor","Texture2DContent",22527,3072085,0.0804397
+"G:/course work/soft dev/repos/pizza spy/Content/start_button.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/start_button.xnb","TextureProcessor","Texture2DContent",5490,100085,0.117115
+"G:/course work/soft dev/repos/pizza spy/Content/start_screen_bgd.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/start_screen_bgd.xnb","TextureProcessor","Texture2DContent",513414,7340117,0.2621254
+"G:/course work/soft dev/repos/pizza spy/Content/truck0.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/truck0.xnb","TextureProcessor","Texture2DContent",1776,60085,0.1239551
+"G:/course work/soft dev/repos/pizza spy/Content/truck1.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/truck1.xnb","TextureProcessor","Texture2DContent",1770,60085,0.1273032
+"G:/course work/soft dev/repos/pizza spy/Content/truck2.png","G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/truck2.xnb","TextureProcessor","Texture2DContent",2061,60085,0.1310515

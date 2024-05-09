@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/Arial07.spritefont</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/how to play button.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/pizza.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/player truck.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/sc_background0.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/sc_background1.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/sc_background2.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/start_button.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/start_screen_bgd.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/truck0.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/truck1.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/truck2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
