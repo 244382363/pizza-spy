@@ -47,3 +47,10 @@ G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\truck1.
 G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\truck2.xnb
 G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\truck0.xnb
 G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\Arial07.xnb
+G:\course work\soft dev\repos\pizza spy\obj\Debug\net6.0-windows\pizza spy.sourcelink.json
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\truck3.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\truck4.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\back button.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\pause screen.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\resume button.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\pause_screen.xnb

@@ -17,7 +17,7 @@ namespace pizza_spy
         string _text;
         Vector2 _pos;
         Vector2 _vel;
-        public bool enemyTruck;
+        public bool enemyTruck,motorbike;
 
 
 
@@ -29,19 +29,28 @@ namespace pizza_spy
             _txr = txr;
 
             //pick a random point along the "top line" to start
-            _pos = new Vector2(Game1.RNG.Next(50, 700), 0);
+            _pos = new Vector2(Game1.RNG.Next(60, 670), -5);
             Rect = new Rectangle(_pos.ToPoint(), txr.Bounds.Size);
 
             //pick a new random velocity to fall with
             _vel = new Vector2(0, (float)Game1.RNG.NextDouble() * 2 + 0.5f);
-            /*if (santa == 7)
+            if (enemyT == 4 ) 
             {
-                santaBauble = true;
+                enemyTruck = true;
             }
             else
             {
-                santaBauble = false;
-            }*/
+                enemyTruck = false;
+            }
+            if (enemyT == 3 ) 
+            {
+                motorbike = true;
+            }
+            else
+            {
+                motorbike = false;
+            }
+            
         }
 
 

@@ -5,9 +5,13 @@
   <Config />
   <SourceFiles>
     <File>G:/course work/soft dev/repos/pizza spy/Content/Arial07.spritefont</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/back button.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/how to play button.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/pause screen.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/pause_screen.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/pizza.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/player truck.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/resume button.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/sc_background0.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/sc_background1.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/sc_background2.png</File>
@@ -16,8 +20,16 @@
     <File>G:/course work/soft dev/repos/pizza spy/Content/truck0.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/truck1.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/truck2.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/truck3.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/truck4.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
