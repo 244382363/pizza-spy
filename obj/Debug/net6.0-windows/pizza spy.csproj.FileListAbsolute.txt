@@ -54,3 +54,8 @@ G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\back bu
 G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\pause screen.xnb
 G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\resume button.xnb
 G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\pause_screen.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\game over screen.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\start_screen.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\exit button.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\how to play screen.xnb
+G:\course work\soft dev\repos\pizza spy\bin\Debug\net6.0-windows\Content\footstep (high heels)_1.xnb

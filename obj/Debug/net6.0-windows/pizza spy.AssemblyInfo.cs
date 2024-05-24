@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pizza spy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2305ffa9a0f05433c7be5012bd20db3b993fe328")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b0e12e710db5fe46202bf1f4e2bb0ea6f125ccf")]
 [assembly: System.Reflection.AssemblyProductAttribute("pizza spy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pizza spy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,11 @@
   <SourceFiles>
     <File>G:/course work/soft dev/repos/pizza spy/Content/Arial07.spritefont</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/back button.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/exit button.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/footstep (high heels)_1.wav</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/game over screen.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/how to play button.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/how to play screen.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/pause screen.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/pause_screen.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/pizza.png</File>
@@ -17,6 +21,7 @@
     <File>G:/course work/soft dev/repos/pizza spy/Content/sc_background2.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/start_button.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/start_screen_bgd.png</File>
+    <File>G:/course work/soft dev/repos/pizza spy/Content/start_screen.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/truck0.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/truck1.png</File>
     <File>G:/course work/soft dev/repos/pizza spy/Content/truck2.png</File>
@@ -24,6 +29,11 @@
     <File>G:/course work/soft dev/repos/pizza spy/Content/truck4.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

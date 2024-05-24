@@ -60,7 +60,7 @@ namespace pizza_spy
         }
         public void UpdateMe(int maxY)
         {
-            //move the bauble by it's velocity
+            
             _pos += _vel;
 
             //if it's at the bottom, change to "crashes" state

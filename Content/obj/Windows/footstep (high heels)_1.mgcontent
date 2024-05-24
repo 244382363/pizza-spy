@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>G:/course work/soft dev/repos/pizza spy/Content/footstep (high heels)_1.wav</SourceFile>
+  <SourceTime>2024-04-23T13:53:30.163997+01:00</SourceTime>
+  <DestFile>G:/course work/soft dev/repos/pizza spy/Content/bin/Windows/footstep (high heels)_1.xnb</DestFile>
+  <DestTime>2024-05-18T00:54:53.9955888+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T12:44:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
